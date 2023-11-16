@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.etipets.app.beta",
+    "sha256_cert_fingerprints":
+    ["2D:72:7A:A1:49:E7:68:77:68:B0:7C:66:C2:A8:FE:BB:92:F4:A6:47:3E:90:E5:B2:DF:98:48:24:66:86:52:F6"]
+  }
+}]
